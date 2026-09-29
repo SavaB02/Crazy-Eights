@@ -1,0 +1,9 @@
+﻿  CrazyEights.cpp
+  Card.cpp
+  Deck.cpp
+C:\Users\savel\Desktop\Borovskis_Savelijs_2102724_BSc1a\Body of Creative Work\C++ Card Game\CrazyEights\CrazyEights\template\Deck.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\savel\Desktop\Borovskis_Savelijs_2102724_BSc1a\Body of Creative Work\C++ Card Game\CrazyEights\CrazyEights\template\Deck.cpp(15,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+C:\Users\savel\Desktop\Borovskis_Savelijs_2102724_BSc1a\Body of Creative Work\C++ Card Game\CrazyEights\CrazyEights\template\Player.cpp(22,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  CrazyEights.vcxproj -> C:\Users\savel\Desktop\Borovskis_Savelijs_2102724_BSc1a\Body of Creative Work\C++ Card Game\CrazyEights\x64\Debug\CrazyEights.exe
