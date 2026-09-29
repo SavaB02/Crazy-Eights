@@ -1,4 +1,1 @@
-[![Watch the video]([https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg](https://www.youtube.com/watch?v=nPLLcL89om0))]([https://www.youtube.com/embed/APOPm01BVrk](https://www.youtube.com/watch?v=nPLLcL89om0))
-
-[<img src="[https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg](https://www.youtube.com/watch?v=nPLLcL89om0)" width="600" height="300"
-/>]([https://www.youtube.com/embed/APOPm01BVrk](https://www.youtube.com/watch?v=nPLLcL89om0))
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/video-id](https://www.youtube.com/watch?v=nPLLcL89om0)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
